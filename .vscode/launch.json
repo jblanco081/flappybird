@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run flappybird App",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/flappybird.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}/build",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "miDebuggerPath": "D:/Msys2/mingw64/bin/gdb.exe",
+            "preLaunchTask": "Build FlappyBird (C++)"
+
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+D:/flappybird/build/CMakeFiles/flappybird.dir
+D:/flappybird/build/CMakeFiles/edit_cache.dir
+D:/flappybird/build/CMakeFiles/rebuild_cache.dir
